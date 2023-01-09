@@ -1,0 +1,8 @@
+{
+  "name": "my-music",
+  "version": "1.0.0",
+  "dependencies": {
+    "d3": "^7.8.0",
+    "node": "^19.3.0"
+  },
+}
